@@ -1,4 +1,5 @@
 {
-  "symbol": "MEME1",
-  "name": "Meme token 1"
+  "symbol": "MEMTOK1",
+  "name": "Meme token 1",
+  "decimals": 9
 }
